@@ -11,12 +11,15 @@
   "dependencies": {
     "@expo/metro-runtime": "~3.1.3",
     "@stripe/stripe-react-native": "~0.35.1",
-    "axios": "0.27.2",
-    "expo": "~50.0.11",
+    "axios": "^1.6.8",
+    "expo": "~50.0.14",
+    "expo-dotenv": "^0.1.0",
+    "expo-notifications": "~0.27.6",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-native": "0.73.4",
+    "react-native": "0.73.6",
+    "react-native-push-notification": "^8.1.1",
     "react-native-web": "~0.19.6"
   },
   "devDependencies": {
